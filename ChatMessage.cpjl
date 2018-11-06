@@ -1,0 +1,9 @@
+MESSAGE_NAME ChatMessage
+
+START_MESSAGE_CONTENTS
+
+    TypeInt     flags
+    TypeString  sender
+    TypeString  msg
+
+END_MESSAGE_CONTENTS
